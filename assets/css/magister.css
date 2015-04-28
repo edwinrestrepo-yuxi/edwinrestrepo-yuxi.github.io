@@ -245,6 +245,12 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 	margin:0 auto;
 }
 
+.imgpost{
+	width: 600px;
+	height: 400px;
+	position: relative;
+	left: 100px;
+}
 
 
 
