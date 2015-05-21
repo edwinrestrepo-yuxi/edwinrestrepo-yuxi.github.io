@@ -372,3 +372,17 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 
 
 
+.skilltitle {
+text-align: right;
+font-weight: 600;
+padding-right: 0px;
+}
+.progress {
+border-radius: 0px;
+height: 15px;
+margin-top: 5px;
+background-color: #2E2E2E;
+}
+.progress .progress-bar {
+background-color: #58ACFA;
+}
